@@ -8,12 +8,12 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-<div align="center" style="font-size:26px;"><strong>Neural Lineage</strong></div>
-<div align="center" style="margin-bottom: 8px;"> Detect the ancestors for any well-tuned neural network.</div>
-<div align="center"><small><a href="https://yu-rp.github.io/">Runpeng Yu</a> and <a href="https://sites.google.com/site/sitexinchaowang/">Xinchao Wang</a></small></div>
-<div align="center"><small><a href="http://lv-nus.org/">Learning and Vision Lab</a> @ National University of Singapore</small></div>
+<div align="center" style="font-size:5vw;"><strong>Neural Lineage</strong></div>
+<div align="center" style="font-size:2vw;margin-bottom:3vh;"> Detect the ancestors for any well-tuned neural network.</div>
+<div align="center" style="font-size:2vw"><a href="https://yu-rp.github.io/">Runpeng Yu</a> and <a href="https://sites.google.com/site/sitexinchaowang/">Xinchao Wang</a></div>
+<div align="center" style="font-size:2vw;"><a href="http://lv-nus.org/">Learning and Vision Lab</a> @ National University of Singapore</div>
 <hr />
-<div align="center">
+<div align="center" style="font-size:2vw;">
     <a href="about:blank"><strong>Paper (CVPR 2024 Oral)</strong></a> 
     | <a href="about:blank"><strong>PDF</strong></a>
     | <a href="about:blank"><strong>Poster</strong></a>
@@ -23,20 +23,19 @@
     <img src="asset/HeadImages.png" alt="Image">
 </div>
 
-
-
+<br style="margin-bottom:3vh;">
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary style="font-size: 20px;">Table of Contents</summary>
-  <ul>
-    <li><a href="#updates_and_todos">Updates and TODOs</a></li>
-    <li><a href="#environment-setup">Environment Setup</a></li>
-    <li><a href="#data-preparation">Data Preparation</a></li>
-    <li><a href="#pre-trained-models">Pre-trained Models</a></li>
-    <li><a href="#learning-free-method-and-baselines">Learning-Free Method and Baselines</a></li>
-    <li><a href="#lineage-detector">Lineage Detector</a></li>
-  </ul>
-</details>
+<!-- <details> -->
+<summary style="font-size: 3vw;">Table of Contents</summary>
+<ul>
+  <li style="font-size: 2vw;"><a href="#updates_and_todos">Updates and TODOs</a></li>
+  <li style="font-size: 2vw;"><a href="#environment-setup">Environment Setup</a></li>
+  <li style="font-size: 2vw;"><a href="#data-preparation">Data Preparation</a></li>
+  <li style="font-size: 2vw;"><a href="#pre-trained-models">Pre-trained Models</a></li>
+  <li><a href="#learning-free-method-and-baselines">Learning-Free Method and Baselines</a></li>
+  <li style="font-size: 2vw;"><a href="#lineage-detector">Lineage Detector</a></li>
+</ul>
+<!-- </details> -->
 
 ## Updates and TODOs
 - [ ] Upload the parent and child models used in the experiment
