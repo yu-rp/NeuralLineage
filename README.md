@@ -8,18 +8,18 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-<div align="center"><font size="6"><strong>Neural Lineage</strong></font></div>
-<div align="center"><font size="3"> Detect the ancestors for any well-tuned neural network.</font></div>
-<p></p>
-<div align="center"><font size="3"><a href="https://yu-rp.github.io/">Runpeng Yu</a> and <a href="https://sites.google.com/site/sitexinchaowang/">Xinchao Wang</a></font></div>
-<div align="center""><font size="3"><a href="http://lv-nus.org/">Learning and Vision Lab</a> @ National University of Singapore</font></div>
-<hr />
-<div align="center"><font size="3">
-    <a href="about:blank"><strong>Paper (CVPR 2024 Oral)</strong></a> 
-    | <a href="about:blank"><strong>PDF</strong></a>
-    | <a href="about:blank"><strong>Poster</strong></a>
-    | <a href="about:blank"><strong>Video</strong></a>
-</font></div>
+# Neural Lineage
+*Detect the ancestors for any well-tuned neural network.*
+
+<a href="https://yu-rp.github.io/">Runpeng Yu</a> and <a href="https://sites.google.com/site/sitexinchaowang/">Xinchao Wang</a>
+
+<a href="http://lv-nus.org/">Learning and Vision Lab</a> @ National University of Singapore
+
+<a href="about:blank"><strong>Paper (CVPR 2024 Oral)</strong></a> 
+| <a href="about:blank"><strong>PDF</strong></a>
+| <a href="about:blank"><strong>Poster</strong></a>
+| <a href="about:blank"><strong>Video</strong></a>
+    
 <div align="center">
     <img src="asset/HeadImages.png" alt="Image">
 </div>
