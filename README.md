@@ -21,7 +21,7 @@
 | <a href="about:blank"><strong>Video</strong></a>
     
 <div align="center">
-    <img src="asset/HeadImages.png" alt="Image">
+    <img src="asset/HeadImage.png" alt="Image">
 </div>
 
 <p ></p>
