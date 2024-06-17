@@ -1,0 +1,8 @@
+name: lineage
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip:
+    - torch==2.0.0
+    - torchvision==0.15.1
