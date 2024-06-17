@@ -8,32 +8,33 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-<div align="center" style="font-size:5vw;"><strong>Neural Lineage</strong></div>
-<div align="center" style="font-size:2vw;margin-bottom:3vh;"> Detect the ancestors for any well-tuned neural network.</div>
-<div align="center" style="font-size:2vw"><a href="https://yu-rp.github.io/">Runpeng Yu</a> and <a href="https://sites.google.com/site/sitexinchaowang/">Xinchao Wang</a></div>
-<div align="center" style="font-size:2vw;"><a href="http://lv-nus.org/">Learning and Vision Lab</a> @ National University of Singapore</div>
+<div align="center"><font size="6"><strong>Neural Lineage</strong></font></div>
+<div align="center"><font size="3"> Detect the ancestors for any well-tuned neural network.</font></div>
+<p></p>
+<div align="center"><font size="3"><a href="https://yu-rp.github.io/">Runpeng Yu</a> and <a href="https://sites.google.com/site/sitexinchaowang/">Xinchao Wang</a></font></div>
+<div align="center""><font size="3"><a href="http://lv-nus.org/">Learning and Vision Lab</a> @ National University of Singapore</font></div>
 <hr />
-<div align="center" style="font-size:2vw;">
+<div align="center"><font size="3">
     <a href="about:blank"><strong>Paper (CVPR 2024 Oral)</strong></a> 
     | <a href="about:blank"><strong>PDF</strong></a>
     | <a href="about:blank"><strong>Poster</strong></a>
     | <a href="about:blank"><strong>Video</strong></a>
-</div>
+</font></div>
 <div align="center">
     <img src="asset/HeadImages.png" alt="Image">
 </div>
 
-<br style="margin-bottom:3vh;">
+<p ></p>
+
 <!-- TABLE OF CONTENTS -->
-<!-- <details> -->
-<summary style="font-size: 3vw;">Table of Contents</summary>
+## Table of Contents
 <ul>
-  <li style="font-size: 2vw;"><a href="#updates_and_todos">Updates and TODOs</a></li>
-  <li style="font-size: 2vw;"><a href="#environment-setup">Environment Setup</a></li>
-  <li style="font-size: 2vw;"><a href="#data-preparation">Data Preparation</a></li>
-  <li style="font-size: 2vw;"><a href="#pre-trained-models">Pre-trained Models</a></li>
+  <li ><a href="#updates_and_todos">Updates and TODOs</a></li>
+  <li ><a href="#environment-setup">Environment Setup</a></li>
+  <li ><a href="#data-preparation">Data Preparation</a></li>
+  <li ><a href="#pre-trained-models">Pre-trained Models</a></li>
   <li><a href="#learning-free-method-and-baselines">Learning-Free Method and Baselines</a></li>
-  <li style="font-size: 2vw;"><a href="#lineage-detector">Lineage Detector</a></li>
+  <li ><a href="#lineage-detector">Lineage Detector</a></li>
 </ul>
 <!-- </details> -->
 
