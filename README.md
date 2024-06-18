@@ -15,7 +15,7 @@
 
 <a href="http://lv-nus.org/">Learning and Vision Lab</a> @ National University of Singapore
 
-<a href="about:blank"><strong>Paper (CVPR 2024 Oral)</strong></a> 
+<a href="https://cvpr.thecvf.com/virtual/2024/poster/29290"><strong>Paper (CVPR 2024 Oral)</strong></a> 
 | <a href="https://arxiv.org/pdf/2406.11129"><strong>PDF</strong></a>
 | <a href="./asset/Poster_NeuralLineage.pdf"><strong>Poster</strong></a>
 | <a href="about:blank"><strong>Video</strong></a>
